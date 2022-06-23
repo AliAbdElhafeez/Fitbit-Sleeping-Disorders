@@ -1,0 +1,2 @@
+# Fitbit-Sleeping-Disorders
+In this case study, we will analyze Fitbit's personal tracker data in order to get insights into the sleeping disorders of its users.  Fitbit Case Study: https://public.tableau.com/app/profile/ali.sayed/viz/FitbitCaseStudy_16464287082030/FitabaseCaseStudy  Fitbit Sleep types Dashboard: https://public.tableau.com/app/profile/ali.sayed/viz/FitbitSleeptypesDashboard/FitabaseSleeptypesDashboard
